@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![]()
+![AMA Gif](https://github.com/Rodrigo001-dev/ama-go-react/blob/main/.github/images/ama-go-react-gif.gif)
 
 > Nesse projeto o objetivo foi criar uma aplicação AMA(Ask me anything), utilizando Go no backend e React no front, essa aplicação funciona com um sistema de salas, onde o usuário pode criar uma sala e dentro dessa sala pode ter várias perguntas, onde os usuários podem ir curtindo essas perguntas, só que essa aplicação utiliza Socket, ou seja, tudo acontece em tempo real.
 
