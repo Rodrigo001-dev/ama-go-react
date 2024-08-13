@@ -27,12 +27,12 @@ $ cd ama-go-react/api
 
 ```bash
 # Baixe as dependências(api)
-$ bun i
+$ go mod tidy
 ```
 
 ```bash
 # Execute(api)
-$ bun run dev
+$ go run ./cmd/wsrs/main.go
 ```
 
 ```bash
